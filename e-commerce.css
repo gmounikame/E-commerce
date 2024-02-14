@@ -1,0 +1,49 @@
+
+.container{
+    height: 100px;
+    width: 100%;
+    background-color: yellow;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+}
+img{
+    height: 600px;
+    width: 100%;
+    
+}
+footer{
+    background-color: #333;
+color: bisque;
+background-color: black;
+padding: 10px;
+display: flex;
+justify-content: space-evenly;
+align-items: end;
+position: fixed;
+bottom: 0;
+width: 100%;
+}
+.products{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    position: fixed;  
+
+}
+button{
+    height: 30px;
+    width: 30%;
+    background-color: aqua;
+    background-color: chartreuse;
+}
+.shoes{
+    height: 5px;
+    width: 20%;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
